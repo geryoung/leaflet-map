@@ -1,0 +1,34 @@
+{
+  "name": "leaflet-map",
+  "version": "1.0.0",
+  "description": "use leaflet with plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geryoung/leaflet-map.git"
+  },
+  "keywords": [
+    "leaflet"
+  ],
+  "author": "geryoung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geryoung/leaflet-map/issues"
+  },
+  "homepage": "https://github.com/geryoung/leaflet-map",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "grunt": "^0.4.5",
+    "grunt-karma": "^0.11.2",
+    "grunt-mocha-test": "^0.12.7",
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-mocha": "^0.2.0",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
+  }
+}
